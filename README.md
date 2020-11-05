@@ -13,14 +13,16 @@ So far you have understood and learnt methods and tools for - DevOps, Project Ma
 ## Problem this module solves for you
 Most of you may be very good at technical coding and building interesting applications. But, if you don't communicate your thoughts in an effective way that anyone can understand, you will never be able to excel. 
 
-> **You can improve your value by 50% by havign better communication skills** - Warren Buffet
+> **You can improve your value by 50% by having better communication skills** - Warren Buffet
+
+This mindset shift of not just coding or doing your work but also being able to communciate it effectively is what this module will give you an exposure towards.
 
 
 ## How to get started with it?
 
-Navigate through gitlab exactly like you did in the previous module and complete all stages. 
+Navigate through gitlab exactly like you learnt in module 0 and complete all stages.(Understand, Summarise(optional), Practice) 
 
 ------------------------------------------------
 
-#### Navigate through the module by going to [wiki](https://gitlab.iotiot.in/office-hours/pre-office/day-2---module-2/wikis/home) to get learning material on this topic and then complete the summary and practice questions in issues.
+#### Start with the Understand Stage by going to [wiki](https://gitlab.iotiot.in/office-hours/pre-office/day-2---module-2/wikis/home) and then complete the Summary and Practice Stages in issues.
 
