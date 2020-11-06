@@ -1,12 +1,10 @@
 # Day 2 - Module 2
 
-### Code refactoring and review by mentors
+### Corporate Etiquette and Communication
 
 So far you have understood and learnt methods and tools for - DevOps, Project Management, Code refactoring(coding standards and style). But, along with understanding the above an extremly important skill is to communicate the work you do effectively. 
 
 ## What will you learn in this module?
-
-#### Communicating with TL/ Product manager
 1. Introduction to effective communication and presenting your case to seniors
 1. Practical - Communicate and present your project to mentors to get a review
 
