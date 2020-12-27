@@ -1,6 +1,6 @@
 ## Practical Stage
 
 
-(Put your feedback with possible solutions here)
+(Write your feedback with possible solutions here)
 
 
