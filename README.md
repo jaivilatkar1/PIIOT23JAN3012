@@ -22,5 +22,5 @@ Hear the audio session by mentor to get idea on the subject and then navigate th
 
 ------------------------------------------------
 
-#### Start with the Understand Stage by going to [wiki](https://gitlab.iotiot.in/newbies/orie/module-3/wikis/home) and then complete the Summary and Practice Stages in issues.
+#### Start with the Understand Stage by going to [wiki](https://gitlab.iotiot.in/newbies/orie/module-4/wikis/home) and then complete the Summary and Practice Stages in issues.
 
