@@ -1,4 +1,4 @@
-# Day 2 - Module 2 - Corporate Etiquette and Communication
+# Module 4 - Corporate Etiquette and Communication
 
 ### Purpose :
 
@@ -22,5 +22,5 @@ Hear the audio session by mentor to get idea on the subject and then navigate th
 
 ------------------------------------------------
 
-#### Start with the Understand Stage by going to [wiki](https://gitlab.iotiot.in/office-hours/pre-office/day-2---module-2/wikis/home) and then complete the Summary and Practice Stages in issues.
+#### Start with the Understand Stage by going to [wiki](https://gitlab.iotiot.in/newbies/orie/module-3/wikis/home) and then complete the Summary and Practice Stages in issues.
 
