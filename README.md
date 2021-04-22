@@ -24,4 +24,4 @@ Hear the audio session by mentor to get idea on the subject and then navigate th
 
 #### Start with the Understand Stage by going to [wiki](https://gitlab.iotiot.in/newbies/orie/module-4/wikis/home) and then complete the Summary and Practice Stages in issues.
 
-#### `IMPORTANT NOTE:` Since this is the final module of Orientation, there is an "`Additional Assignment`: Final Completion of Orientation module" to be completed for the completion of the module.
+#### `IMPORTANT NOTE:` Since this is the final module of Orientation, there is an `Additional Assignment` to be completed for the completion of the module.
